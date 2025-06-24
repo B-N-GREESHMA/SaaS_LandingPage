@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f0f8ff;
+}
+
+.section-title {
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #764ba2;
+}
+/* Optional testimonial card enhancements */
+.shadow {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+.bg-white {
+  background-color: #ffffff !important;
+}
+

@@ -27,3 +27,13 @@ This project is a clean, responsive **SaaS-style landing page** with user signup
 EMAIL_USER=your-email@example.com
 EMAIL_PASS=your-email-password
 DB_URI=your-mongodb-connection-uri
+
+# Step 1: Install dependencies
+npm install
+
+# Step 2: Create your .env file
+# Refer to .env.example for what variables are needed
+
+# Step 3: Start the server
+node server.js
+
